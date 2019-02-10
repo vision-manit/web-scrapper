@@ -23,3 +23,4 @@ ans=ans[:tmp-1]
 ans=int(ans)
 
 print("Number of problems solved by %s is %d"%(username,ans))
+print("Thank you for using the scapper")
